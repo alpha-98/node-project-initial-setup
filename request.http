@@ -1,0 +1,11 @@
+### Test route
+GET http://localhost:3000/api/
+
+# ### Create activity log Initiation of chat
+# POST http://localhost:3001/api/trade/activity-log
+# Content-Type: application/json
+# Authorization: Bearer token
+
+# {
+#    "key":"value" 
+# }
